@@ -212,7 +212,9 @@
 
           <div class="tree-card">
             <div class="image-frame">
-              <img src="${pohon.foto || 'https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=600'}" alt="${pohon.nama_lokal}">
+              <img src="${pohon.foto}"
+                    alt="${pohon.nama_lokal}"
+                    onerror="this.onerror=null; this.src='images/default.jpg';">
               <span class="badge-id">ID: ${pohon.id}</span>
             </div>
 

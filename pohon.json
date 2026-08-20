@@ -11,7 +11,7 @@
     "bentuk_daun": "Jorong hingga lanset, tepi bergigi halus, permukaan bawah agak berbulu/bersisik, ujung meruncing.",
     "nama_buah": "Buah Buni Kecil (Saurauia)",
     "status_buah": "Bisa Dimakan (Rasa manis asam)",
-    "foto": "images/P001.jpg"
+    "foto": "images/Tungir-tungir.jpg"
   },
   {
     "id": "P002",
@@ -25,7 +25,7 @@
     "bentuk_daun": "Jorong hingga obovate, tebal seperti kulit, permukaan bawah cokelat tembaga.",
     "nama_buah": "Buah Balam/Perca",
     "status_buah": "Tidak Lazim Dimakan (Daging tipis bergetah)",
-    "foto": "images/P002.jpg"
+    "foto": "images/Mayang Durian.jpg"
   },
   {
     "id": "P003",
@@ -39,7 +39,7 @@
     "bentuk_daun": "Jorong hingga obovate, tebal seperti kulit, permukaan bawah cokelat tembaga.",
     "nama_buah": "Buah Balam/Perca",
     "status_buah": "Tidak Lazim Dimakan (Daging tipis bergetah)",
-    "foto": "images/P003.jpg"
+    "foto": "images/Mayang Durian.jpg"
   },
   {
     "id": "P004",
@@ -53,7 +53,7 @@
     "bentuk_daun": "Jorong hingga obovate, tebal seperti kulit, permukaan bawah cokelat tembaga.",
     "nama_buah": "Buah Balam/Perca",
     "status_buah": "Tidak Lazim Dimakan (Daging tipis bergetah)",
-    "foto": "images/P004.jpg"
+    "foto": "images/Mayang Durian.jpg"
   },
   {
     "id": "P005",
@@ -67,7 +67,7 @@
     "bentuk_daun": "Jorong hingga obovate, tebal seperti kulit, permukaan bawah cokelat tembaga.",
     "nama_buah": "Buah Balam/Perca",
     "status_buah": "Tidak Lazim Dimakan (Daging tipis bergetah)",
-    "foto": "images/P005.jpg"
+    "foto": "images/Mayang Durian.jpg"
   },
   {
     "id": "P006",
@@ -81,7 +81,7 @@
     "bentuk_daun": "Jorong hingga obovate, tebal seperti kulit, permukaan bawah cokelat tembaga.",
     "nama_buah": "Buah Balam/Perca",
     "status_buah": "Tidak Lazim Dimakan (Daging tipis bergetah)",
-    "foto": "images/P006.jpg"
+    "foto": "images/Mayang Durian.jpg"
   },
   {
     "id": "P007",
@@ -95,7 +95,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun bentuk jorong, tepi rata, hijau terang halus.",
     "nama_buah": "Buah Batu Kecil (Drupe)",
     "status_buah": "Tidak Bisa Dimakan (Bukan pangan manusia)",
-    "foto": "images/P007.jpg"
+    "foto": "images/Kayu Afrika.jpg"
   },
   {
     "id": "P008",
@@ -109,7 +109,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun bentuk jorong, tepi rata, hijau terang halus.",
     "nama_buah": "Buah Batu Kecil (Drupe)",
     "status_buah": "Tidak Bisa Dimakan (Bukan pangan manusia)",
-    "foto": "images/P008.jpg"
+    "foto": "images/Kayu Afrika.jpg"
   },
   {
     "id": "P009",
@@ -123,7 +123,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun bentuk jorong, tepi rata, hijau terang halus.",
     "nama_buah": "Buah Batu Kecil (Drupe)",
     "status_buah": "Tidak Bisa Dimakan (Bukan pangan manusia)",
-    "foto": "images/P009.jpg"
+    "foto": "images/Kayu Afrika.jpg"
   },
   {
     "id": "P010",
@@ -137,7 +137,7 @@
     "bentuk_daun": "Majemuk menyirip, 3–6 pasang anak daun jorong-lanset, asimetris di pangkal.",
     "nama_buah": "Buah Kotak Kayu (Kapsul)",
     "status_buah": "Tidak Bisa Dimakan (Pahit sekali, obat herbal)",
-    "foto": "images/P010.jpg"
+    "foto": "images/Mahoni.jpg"
   },
   {
     "id": "P011",
@@ -151,7 +151,7 @@
     "bentuk_daun": "Majemuk menyirip, 3–6 pasang anak daun jorong-lanset, asimetris di pangkal.",
     "nama_buah": "Buah Kotak Kayu (Kapsul)",
     "status_buah": "Tidak Bisa Dimakan (Pahit sekali, obat herbal)",
-    "foto": "images/P011.jpg"
+    "foto": "images/Mahoni.jpg"
   },
   {
     "id": "P012",
@@ -165,7 +165,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P012.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P013",
@@ -179,7 +179,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P013.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P014",
@@ -193,7 +193,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P014.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P015",
@@ -207,7 +207,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P015.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P016",
@@ -221,7 +221,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P016.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P017",
@@ -235,7 +235,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P017.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P018",
@@ -249,7 +249,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P018.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P019",
@@ -263,7 +263,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P019.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P020",
@@ -277,7 +277,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P020.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P021",
@@ -291,7 +291,7 @@
     "bentuk_daun": "Majemuk menjari, 7–9 anak daun lanset panjang, berbau khas bila diremas.",
     "nama_buah": "Buah Bumbung Merah (Kepuh)",
     "status_buah": "Bisa Dimakan (Biji sangrai/diolah)",
-    "foto": "images/P021.jpg"
+    "foto": "images/Jangkang.jpg"
   },
   {
     "id": "P022",
@@ -305,7 +305,7 @@
     "bentuk_daun": "Tunggal, berhadapan, bentuk jorong tebal kaku mengkilap, ujung runcing.",
     "nama_buah": "Manggis Hutan",
     "status_buah": "Bisa Dimakan (Rasa asam manis segar)",
-    "foto": "images/P022.jpg"
+    "foto": "images/Ariman.jpg"
   },
   {
     "id": "P023",
@@ -319,7 +319,7 @@
     "bentuk_daun": "Tunggal, berhadapan, bentuk jorong tebal kaku mengkilap, ujung runcing.",
     "nama_buah": "Manggis Hutan",
     "status_buah": "Bisa Dimakan (Rasa asam manis segar)",
-    "foto": "images/P023.jpg"
+    "foto": "images/Ariman.jpg"
   },
   {
     "id": "P024",
@@ -333,7 +333,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P024.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P025",
@@ -347,7 +347,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P025.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P026",
@@ -361,7 +361,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P026.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P027",
@@ -375,7 +375,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P027.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P028",
@@ -389,7 +389,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P028.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P029",
@@ -403,7 +403,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P029.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P030",
@@ -417,7 +417,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P030.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P031",
@@ -431,7 +431,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P031.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P032",
@@ -445,7 +445,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P032.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P033",
@@ -459,7 +459,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P033.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P034",
@@ -473,7 +473,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P034.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P035",
@@ -487,7 +487,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P035.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P036",
@@ -501,7 +501,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P036.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P037",
@@ -515,7 +515,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P037.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P038",
@@ -529,7 +529,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P038.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P039",
@@ -543,7 +543,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga bundar telur, permukaan bawah berbulu rapat.",
     "nama_buah": "Buah Buni Ungu Kecil",
     "status_buah": "Tidak Bisa Dimakan (Disukai burung)",
-    "foto": "images/P039.jpg"
+    "foto": "images/Porporan.jpg"
   },
   {
     "id": "P040",
@@ -557,7 +557,7 @@
     "bentuk_daun": "Tunggal, bundar telur terbalik hingga jorong, pangkal bertelinga memeluk ranting.",
     "nama_buah": "Buah Buni Kecil Loba",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P040.jpg"
+    "foto": "images/Loba.jpg"
   },
   {
     "id": "P041",
@@ -571,7 +571,7 @@
     "bentuk_daun": "Tunggal, bundar telur terbalik hingga jorong, pangkal bertelinga memeluk ranting.",
     "nama_buah": "Buah Buni Kecil Loba",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P041.jpg"
+    "foto": "images/Loba.jpg"
   },
   {
     "id": "P042",
@@ -585,7 +585,7 @@
     "bentuk_daun": "Tunggal, bundar telur terbalik hingga jorong, pangkal bertelinga memeluk ranting.",
     "nama_buah": "Buah Buni Kecil Loba",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P042.jpg"
+    "foto": "images/Loba.jpg"
   },
   {
     "id": "P043",
@@ -599,7 +599,7 @@
     "bentuk_daun": "Tunggal, bundar telur terbalik hingga jorong, pangkal bertelinga memeluk ranting.",
     "nama_buah": "Buah Buni Kecil Loba",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P043.jpg"
+    "foto": "images/Loba.jpg"
   },
   {
     "id": "P044",
@@ -613,7 +613,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P044.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P045",
@@ -627,7 +627,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P045.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P046",
@@ -641,7 +641,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P046.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P047",
@@ -655,7 +655,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P047.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P048",
@@ -669,7 +669,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P048.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P049",
@@ -683,7 +683,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P049.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P050",
@@ -697,7 +697,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P050.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P051",
@@ -711,7 +711,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P051.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P052",
@@ -725,7 +725,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P052.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P053",
@@ -739,7 +739,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P053.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P054",
@@ -753,7 +753,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P054.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P055",
@@ -767,7 +767,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P055.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P056",
@@ -781,7 +781,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P056.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P057",
@@ -795,7 +795,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, permukaan atas mengkilap.",
     "nama_buah": "Buah Buni Kecil Hapas",
     "status_buah": "Bisa Dimakan (Rasa manis asam tipis)",
-    "foto": "images/P057.jpg"
+    "foto": "images/Hapas-hapas.jpg"
   },
   {
     "id": "P058",
@@ -809,7 +809,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga lanset, tebal kaku seperti kulit.",
     "nama_buah": "Buah Oak / Pasang",
     "status_buah": "Tidak Dimakan Langsung (Tinggi tanin, pakan satwa)",
-    "foto": "images/P058.jpg"
+    "foto": "images/Sitarak.jpg"
   },
   {
     "id": "P059",
@@ -823,7 +823,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga lanset, tebal kaku seperti kulit.",
     "nama_buah": "Buah Oak / Pasang",
     "status_buah": "Tidak Dimakan Langsung (Tinggi tanin, pakan satwa)",
-    "foto": "images/P059.jpg"
+    "foto": "images/Sitarak.jpg"
   },
   {
     "id": "P060",
@@ -837,7 +837,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga lanset, tebal kaku seperti kulit.",
     "nama_buah": "Buah Oak / Pasang",
     "status_buah": "Tidak Dimakan Langsung (Tinggi tanin, pakan satwa)",
-    "foto": "images/P060.jpg"
+    "foto": "images/Sitarak.jpg"
   },
   {
     "id": "P061",
@@ -851,7 +851,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga lanset, tebal kaku seperti kulit.",
     "nama_buah": "Buah Oak / Pasang",
     "status_buah": "Tidak Dimakan Langsung (Tinggi tanin, pakan satwa)",
-    "foto": "images/P061.jpg"
+    "foto": "images/Sitarak.jpg"
   },
   {
     "id": "P062",
@@ -865,7 +865,7 @@
     "bentuk_daun": "Tunggal, jorong-lanset memanjang, tepi bergigi tajam halus.",
     "nama_buah": "Buah Mohou Berbulu",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P062.jpg"
+    "foto": "images/Mohou.jpg"
   },
   {
     "id": "P063",
@@ -879,7 +879,7 @@
     "bentuk_daun": "Tunggal, jorong-lanset memanjang, tepi bergigi tajam halus.",
     "nama_buah": "Buah Mohou Berbulu",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P063.jpg"
+    "foto": "images/Mohou.jpg"
   },
   {
     "id": "P064",
@@ -893,7 +893,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P064.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P065",
@@ -907,7 +907,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P065.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P066",
@@ -921,7 +921,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P066.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P067",
@@ -935,7 +935,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P067.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P068",
@@ -949,7 +949,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P068.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P069",
@@ -963,7 +963,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P069.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P070",
@@ -977,7 +977,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P070.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P071",
@@ -991,7 +991,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P071.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P072",
@@ -1005,7 +1005,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P072.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P073",
@@ -1019,7 +1019,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P073.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P074",
@@ -1033,7 +1033,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P074.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P075",
@@ -1047,7 +1047,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P075.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P076",
@@ -1061,7 +1061,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P076.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P077",
@@ -1075,7 +1075,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P077.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P078",
@@ -1089,7 +1089,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga obovate, aromatik wangi.",
     "nama_buah": "Buah Buni Berkelopak",
     "status_buah": "Tidak Bisa Dimakan (Pakan burung)",
-    "foto": "images/P078.jpg"
+    "foto": "images/Medang Sakupal.jpg"
   },
   {
     "id": "P079",
@@ -1103,7 +1103,7 @@
     "bentuk_daun": "Pita memanjang, kaku, tepi dan ibu tulang daun berduri tajam.",
     "nama_buah": "Buah Pandan Majemuk",
     "status_buah": "Tidak Dimakan (Sangat berserat & keras)",
-    "foto": "images/P079.jpg"
+    "foto": "images/Pandan hutan.jpg"
   },
   {
     "id": "P080",
@@ -1117,7 +1117,7 @@
     "bentuk_daun": "Pita memanjang, kaku, tepi dan ibu tulang daun berduri tajam.",
     "nama_buah": "Buah Pandan Majemuk",
     "status_buah": "Tidak Dimakan (Sangat berserat & keras)",
-    "foto": "images/P080.jpg"
+    "foto": "images/Pandan hutan.jpg"
   },
   {
     "id": "P081",
@@ -1131,7 +1131,7 @@
     "bentuk_daun": "Pita memanjang, kaku, tepi dan ibu tulang daun berduri tajam.",
     "nama_buah": "Buah Pandan Majemuk",
     "status_buah": "Tidak Dimakan (Sangat berserat & keras)",
-    "foto": "images/P081.jpg"
+    "foto": "images/Pandan hutan.jpg"
   },
   {
     "id": "P082",
@@ -1145,7 +1145,7 @@
     "bentuk_daun": "Pita memanjang, kaku, tepi dan ibu tulang daun berduri tajam.",
     "nama_buah": "Buah Pandan Majemuk",
     "status_buah": "Tidak Dimakan (Sangat berserat & keras)",
-    "foto": "images/P082.jpg"
+    "foto": "images/Pandan hutan.jpg"
   },
   {
     "id": "P083",
@@ -1159,7 +1159,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Gelugur Berlekuk Gelombang",
     "status_buah": "Bisa Dimakan (Olahan bumbu dapur/manisan)",
-    "foto": "images/P083.jpg"
+    "foto": "images/Asam Gelugur.jpg"
   },
   {
     "id": "P084",
@@ -1173,7 +1173,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Gelugur Berlekuk Gelombang",
     "status_buah": "Bisa Dimakan (Olahan bumbu dapur/manisan)",
-    "foto": "images/P084.jpg"
+    "foto": "images/Asam Gelugur.jpg"
   },
   {
     "id": "P085",
@@ -1187,7 +1187,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Gelugur Berlekuk Gelombang",
     "status_buah": "Bisa Dimakan (Olahan bumbu dapur/manisan)",
-    "foto": "images/P085.jpg"
+    "foto": "images/Asam Gelugur.jpg"
   },
   {
     "id": "P086",
@@ -1201,7 +1201,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Gelugur Berlekuk Gelombang",
     "status_buah": "Bisa Dimakan (Olahan bumbu dapur/manisan)",
-    "foto": "images/P086.jpg"
+    "foto": "images/Asam Gelugur.jpg"
   },
   {
     "id": "P087",
@@ -1215,7 +1215,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Gelugur Berlekuk Gelombang",
     "status_buah": "Bisa Dimakan (Olahan bumbu dapur/manisan)",
-    "foto": "images/P087.jpg"
+    "foto": "images/Asam Gelugur.jpg"
   },
   {
     "id": "P088",
@@ -1229,7 +1229,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P088.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P089",
@@ -1243,7 +1243,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P089.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P090",
@@ -1257,7 +1257,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P090.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P091",
@@ -1271,7 +1271,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P091.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P092",
@@ -1285,7 +1285,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P092.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P093",
@@ -1299,7 +1299,7 @@
     "bentuk_daun": "Tunggal, jorong hingga lanset lebar, tebal, permukaan bawah pucat.",
     "nama_buah": "Buah Mayang / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P093.jpg"
+    "foto": "images/Mayang bolon.jpg"
   },
   {
     "id": "P094",
@@ -1313,7 +1313,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong-elips, tebal bergetah.",
     "nama_buah": "Buah Nyatoh / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P094.jpg"
+    "foto": "images/Mayang.jpg"
   },
   {
     "id": "P095",
@@ -1327,7 +1327,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong-elips, tebal bergetah.",
     "nama_buah": "Buah Nyatoh / Balam",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P095.jpg"
+    "foto": "images/Mayang.jpg"
   },
   {
     "id": "P096",
@@ -1341,7 +1341,7 @@
     "bentuk_daun": "Tunggal, berhadapan, bundar telur hingga jorong, lebar, berurat melengkung.",
     "nama_buah": "Buah Majemuk Membulat (Gempol)",
     "status_buah": "Bisa Dimakan (Rasa pahit asam beraroma khas)",
-    "foto": "images/P096.jpg"
+    "foto": "images/Bangkal Batu.jpg"
   },
   {
     "id": "P097",
@@ -1355,7 +1355,7 @@
     "bentuk_daun": "Tunggal, berhadapan, bundar telur hingga jorong, lebar, berurat melengkung.",
     "nama_buah": "Buah Majemuk Membulat (Gempol)",
     "status_buah": "Bisa Dimakan (Rasa pahit asam beraroma khas)",
-    "foto": "images/P097.jpg"
+    "foto": "images/Bangkal Batu.jpg"
   },
   {
     "id": "P098",
@@ -1369,7 +1369,7 @@
     "bentuk_daun": "Majemuk menyirip sangat besar (3–6 m), anak daun pita kaku.",
     "nama_buah": "Buah Aren (Biji Kolang-kaling)",
     "status_buah": "Bisa Dimakan (Biji/kolang-kaling setelah diolah)",
-    "foto": "images/P098.jpg"
+    "foto": "images/Aren.jpg"
   },
   {
     "id": "P099",
@@ -1383,7 +1383,7 @@
     "bentuk_daun": "Majemuk menyirip sangat besar (3–6 m), anak daun pita kaku.",
     "nama_buah": "Buah Aren (Biji Kolang-kaling)",
     "status_buah": "Bisa Dimakan (Biji/kolang-kaling setelah diolah)",
-    "foto": "images/P099.jpg"
+    "foto": "images/Aren.jpg"
   },
   {
     "id": "P100",
@@ -1397,7 +1397,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P100.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P101",
@@ -1411,7 +1411,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P101.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P102",
@@ -1425,7 +1425,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P102.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P103",
@@ -1439,7 +1439,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P103.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P104",
@@ -1453,7 +1453,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P104.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P105",
@@ -1467,7 +1467,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P105.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P106",
@@ -1481,7 +1481,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P106.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P107",
@@ -1495,7 +1495,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P107.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P108",
@@ -1509,7 +1509,7 @@
     "bentuk_daun": "Tunggal, berseling, bentuk jorong memanjang, tebal kaku.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P108.jpg"
+    "foto": "images/Meranti Batu.jpg"
   },
   {
     "id": "P109",
@@ -1523,7 +1523,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, kecokelatan di bawah.",
     "nama_buah": "Buah Saninten / Berangan Hutan",
     "status_buah": "Bisa Dimakan (Biji disangrai/direbus)",
-    "foto": "images/P109.jpg"
+    "foto": "images/Hoting Bunga.jpg"
   },
   {
     "id": "P110",
@@ -1537,7 +1537,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, kecokelatan di bawah.",
     "nama_buah": "Buah Saninten / Berangan Hutan",
     "status_buah": "Bisa Dimakan (Biji disangrai/direbus)",
-    "foto": "images/P110.jpg"
+    "foto": "images/Hoting Bunga.jpg"
   },
   {
     "id": "P111",
@@ -1551,7 +1551,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, kecokelatan di bawah.",
     "nama_buah": "Buah Saninten / Berangan Hutan",
     "status_buah": "Bisa Dimakan (Biji disangrai/direbus)",
-    "foto": "images/P111.jpg"
+    "foto": "images/Hoting Bunga.jpg"
   },
   {
     "id": "P112",
@@ -1565,7 +1565,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, kecokelatan di bawah.",
     "nama_buah": "Buah Saninten / Berangan Hutan",
     "status_buah": "Bisa Dimakan (Biji disangrai/direbus)",
-    "foto": "images/P112.jpg"
+    "foto": "images/Hoting Bunga.jpg"
   },
   {
     "id": "P113",
@@ -1579,7 +1579,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, kecokelatan di bawah.",
     "nama_buah": "Buah Saninten / Berangan Hutan",
     "status_buah": "Bisa Dimakan (Biji disangrai/direbus)",
-    "foto": "images/P113.jpg"
+    "foto": "images/Hoting Bunga.jpg"
   },
   {
     "id": "P114",
@@ -1593,7 +1593,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P114.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P115",
@@ -1607,7 +1607,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P115.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P116",
@@ -1621,7 +1621,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P116.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P117",
@@ -1635,7 +1635,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P117.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P118",
@@ -1649,7 +1649,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P118.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P119",
@@ -1663,7 +1663,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P119.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P120",
@@ -1677,7 +1677,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P120.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P121",
@@ -1691,7 +1691,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P121.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P122",
@@ -1705,7 +1705,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P122.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P123",
@@ -1719,7 +1719,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P123.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P124",
@@ -1733,7 +1733,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P124.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P125",
@@ -1747,7 +1747,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P125.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P126",
@@ -1761,7 +1761,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P126.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P127",
@@ -1775,7 +1775,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P127.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P128",
@@ -1789,7 +1789,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P128.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P129",
@@ -1803,7 +1803,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P129.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P130",
@@ -1817,7 +1817,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P130.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P131",
@@ -1831,7 +1831,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P131.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P132",
@@ -1845,7 +1845,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P132.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P133",
@@ -1859,7 +1859,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P133.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P134",
@@ -1873,7 +1873,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P134.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P135",
@@ -1887,7 +1887,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P135.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P136",
@@ -1901,7 +1901,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P136.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P137",
@@ -1915,7 +1915,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P137.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P138",
@@ -1929,7 +1929,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P138.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P139",
@@ -1943,7 +1943,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P139.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P140",
@@ -1957,7 +1957,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P140.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P141",
@@ -1971,7 +1971,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P141.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P142",
@@ -1985,7 +1985,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P142.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P143",
@@ -1999,7 +1999,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P143.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P144",
@@ -2013,7 +2013,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P144.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P145",
@@ -2027,7 +2027,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P145.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P146",
@@ -2041,7 +2041,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P146.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P147",
@@ -2055,7 +2055,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P147.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P148",
@@ -2069,7 +2069,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P148.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P149",
@@ -2083,7 +2083,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P149.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P150",
@@ -2097,7 +2097,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P150.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P151",
@@ -2111,7 +2111,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P151.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P152",
@@ -2125,7 +2125,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P152.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P153",
@@ -2139,7 +2139,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P153.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P154",
@@ -2153,7 +2153,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P154.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P155",
@@ -2167,7 +2167,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P155.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P156",
@@ -2181,7 +2181,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P156.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P157",
@@ -2195,7 +2195,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P157.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P158",
@@ -2209,7 +2209,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P158.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P159",
@@ -2223,7 +2223,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P159.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P160",
@@ -2237,7 +2237,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P160.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P161",
@@ -2251,7 +2251,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P161.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P162",
@@ -2265,7 +2265,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P162.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P163",
@@ -2279,7 +2279,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P163.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P164",
@@ -2293,7 +2293,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P164.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P165",
@@ -2307,7 +2307,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P165.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P166",
@@ -2321,7 +2321,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P166.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P167",
@@ -2335,7 +2335,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P167.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P168",
@@ -2349,7 +2349,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P168.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P169",
@@ -2363,7 +2363,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P169.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P170",
@@ -2377,7 +2377,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P170.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P171",
@@ -2391,7 +2391,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P171.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P172",
@@ -2405,7 +2405,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P172.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P173",
@@ -2419,7 +2419,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P173.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P174",
@@ -2433,7 +2433,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P174.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P175",
@@ -2447,7 +2447,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P175.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P176",
@@ -2461,7 +2461,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P176.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P177",
@@ -2475,7 +2475,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P177.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P178",
@@ -2489,7 +2489,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P178.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P179",
@@ -2503,7 +2503,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset, tekstur kaku tipis.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P179.jpg"
+    "foto": "images/Puspa.jpg"
   },
   {
     "id": "P180",
@@ -2517,7 +2517,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P180.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P181",
@@ -2531,7 +2531,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P181.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P182",
@@ -2545,7 +2545,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P182.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P183",
@@ -2559,7 +2559,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P183.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P184",
@@ -2573,7 +2573,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P184.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P185",
@@ -2587,7 +2587,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P185.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P186",
@@ -2601,7 +2601,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P186.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P187",
@@ -2615,7 +2615,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P187.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P188",
@@ -2629,7 +2629,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P188.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P189",
@@ -2643,7 +2643,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P189.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P190",
@@ -2657,7 +2657,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P190.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P191",
@@ -2671,7 +2671,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P191.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P192",
@@ -2685,7 +2685,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P192.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P193",
@@ -2699,7 +2699,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P193.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P194",
@@ -2713,7 +2713,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P194.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P195",
@@ -2727,7 +2727,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P195.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P196",
@@ -2741,7 +2741,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P196.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P197",
@@ -2755,7 +2755,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P197.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P198",
@@ -2769,7 +2769,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P198.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P199",
@@ -2783,7 +2783,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P199.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P200",
@@ -2797,7 +2797,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P200.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P201",
@@ -2811,7 +2811,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P201.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P202",
@@ -2825,7 +2825,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P202.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P203",
@@ -2839,7 +2839,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P203.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P204",
@@ -2853,7 +2853,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P204.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P205",
@@ -2867,7 +2867,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P205.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P206",
@@ -2881,7 +2881,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P206.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P207",
@@ -2895,7 +2895,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P207.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P208",
@@ -2909,7 +2909,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P208.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P209",
@@ -2923,7 +2923,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P209.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P210",
@@ -2937,7 +2937,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P210.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P211",
@@ -2951,7 +2951,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P211.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P212",
@@ -2965,7 +2965,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P212.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P213",
@@ -2979,7 +2979,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P213.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P214",
@@ -2993,7 +2993,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P214.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P215",
@@ -3007,7 +3007,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P215.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P216",
@@ -3021,7 +3021,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P216.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P217",
@@ -3035,7 +3035,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P217.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P218",
@@ -3049,7 +3049,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P218.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P219",
@@ -3063,7 +3063,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P219.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P220",
@@ -3077,7 +3077,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P220.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P221",
@@ -3091,7 +3091,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P221.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P222",
@@ -3105,7 +3105,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P222.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P223",
@@ -3119,7 +3119,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P223.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P224",
@@ -3133,7 +3133,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, beraroma rempah.",
     "nama_buah": "Buah Buni Kecil Lauraceae",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P224.jpg"
+    "foto": "images/Medang.jpg"
   },
   {
     "id": "P225",
@@ -3147,7 +3147,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P225.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P226",
@@ -3161,7 +3161,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P226.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P227",
@@ -3175,7 +3175,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P227.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P228",
@@ -3189,7 +3189,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P228.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P229",
@@ -3203,7 +3203,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P229.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P230",
@@ -3217,7 +3217,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P230.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P231",
@@ -3231,7 +3231,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P231.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P232",
@@ -3245,7 +3245,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P232.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P233",
@@ -3259,7 +3259,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P233.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P234",
@@ -3273,7 +3273,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P234.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P235",
@@ -3287,7 +3287,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P235.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P236",
@@ -3301,7 +3301,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P236.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P237",
@@ -3315,7 +3315,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P237.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P238",
@@ -3329,7 +3329,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P238.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P239",
@@ -3343,7 +3343,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P239.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P240",
@@ -3357,7 +3357,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P240.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P241",
@@ -3371,7 +3371,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P241.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P242",
@@ -3385,7 +3385,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P242.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P243",
@@ -3399,7 +3399,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P243.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P244",
@@ -3413,7 +3413,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P244.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P245",
@@ -3427,7 +3427,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P245.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P246",
@@ -3441,7 +3441,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P246.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P247",
@@ -3455,7 +3455,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P247.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P248",
@@ -3469,7 +3469,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kotak Majemuk Duri Tumpul",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P248.jpg"
+    "foto": "images/Rasamala.jpg"
   },
   {
     "id": "P249",
@@ -3483,7 +3483,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P249.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P250",
@@ -3497,7 +3497,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P250.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P251",
@@ -3511,7 +3511,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P251.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P252",
@@ -3525,7 +3525,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P252.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P253",
@@ -3539,7 +3539,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P253.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P254",
@@ -3553,7 +3553,7 @@
     "bentuk_daun": "Tunggal, berhadapan, obovate atau elips, tebal berdaging.",
     "nama_buah": "Buah Mangrove Api-api",
     "status_buah": "Bisa Dimakan (Perlu perebusan/pengolahan khusus)",
-    "foto": "images/P254.jpg"
+    "foto": "images/Api-api.jpg"
   },
   {
     "id": "P255",
@@ -3567,7 +3567,7 @@
     "bentuk_daun": "Tunggal, berseling, bundar telur berlekuk 3, bawah berbulu keperakan.",
     "nama_buah": "Buah Kotak Berduri Halus",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P255.jpg"
+    "foto": "images/Balik angin.jpg"
   },
   {
     "id": "P256",
@@ -3581,7 +3581,7 @@
     "bentuk_daun": "Tunggal, berseling, bundar telur berlekuk 3, bawah berbulu keperakan.",
     "nama_buah": "Buah Kotak Berduri Halus",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P256.jpg"
+    "foto": "images/Balik angin.jpg"
   },
   {
     "id": "P257",
@@ -3595,7 +3595,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P257.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P258",
@@ -3609,7 +3609,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P258.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P259",
@@ -3623,7 +3623,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P259.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P260",
@@ -3637,7 +3637,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P260.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P261",
@@ -3651,7 +3651,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P261.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P262",
@@ -3665,7 +3665,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P262.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P263",
@@ -3679,7 +3679,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P263.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P264",
@@ -3693,7 +3693,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P264.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P265",
@@ -3707,7 +3707,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P265.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P266",
@@ -3721,7 +3721,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P266.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P267",
@@ -3735,7 +3735,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P267.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P268",
@@ -3749,7 +3749,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P268.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P269",
@@ -3763,7 +3763,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P269.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P270",
@@ -3777,7 +3777,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga obovate, kaku tipis.",
     "nama_buah": "Buah Jambu Kelat Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis rasa kelat/segar)",
-    "foto": "images/P270.jpg"
+    "foto": "images/Kelat.jpg"
   },
   {
     "id": "P271",
@@ -3791,7 +3791,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P271.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P272",
@@ -3805,7 +3805,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P272.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P273",
@@ -3819,7 +3819,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P273.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P274",
@@ -3833,7 +3833,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P274.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P275",
@@ -3847,7 +3847,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P275.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P276",
@@ -3861,7 +3861,7 @@
     "bentuk_daun": "Tunggal, jorong memanjang tebal kaku tanpa urat daun jelas.",
     "nama_buah": "Tidak Ada (Organ: Strobilus/Runjung Bersisik)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P276.jpg"
+    "foto": "images/Damar.jpg"
   },
   {
     "id": "P277",
@@ -3875,7 +3875,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P277.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P278",
@@ -3889,7 +3889,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P278.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P279",
@@ -3903,7 +3903,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P279.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P280",
@@ -3917,7 +3917,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P280.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P281",
@@ -3931,7 +3931,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P281.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P282",
@@ -3945,7 +3945,7 @@
     "bentuk_daun": "Ranting bersendi menyerupai jarum halus melingkar.",
     "nama_buah": "Tidak Ada (Organ: Kerucut Berkayu Kecil)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P282.jpg"
+    "foto": "images/Cemara.jpg"
   },
   {
     "id": "P283",
@@ -3959,7 +3959,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P283.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P284",
@@ -3973,7 +3973,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P284.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P285",
@@ -3987,7 +3987,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P285.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P286",
@@ -4001,7 +4001,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P286.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P287",
@@ -4015,7 +4015,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P287.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P288",
@@ -4029,7 +4029,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P288.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P289",
@@ -4043,7 +4043,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P289.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P290",
@@ -4057,7 +4057,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P290.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P291",
@@ -4071,7 +4071,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P291.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P292",
@@ -4085,7 +4085,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P292.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P293",
@@ -4099,7 +4099,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P293.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P294",
@@ -4113,7 +4113,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P294.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P295",
@@ -4127,7 +4127,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P295.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P296",
@@ -4141,7 +4141,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P296.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P297",
@@ -4155,7 +4155,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P297.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P298",
@@ -4169,7 +4169,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P298.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P299",
@@ -4183,7 +4183,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P299.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P300",
@@ -4197,7 +4197,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P300.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P301",
@@ -4211,7 +4211,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P301.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P302",
@@ -4225,7 +4225,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P302.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P303",
@@ -4239,7 +4239,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P303.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P304",
@@ -4253,7 +4253,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P304.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P305",
@@ -4267,7 +4267,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P305.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P306",
@@ -4281,7 +4281,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P306.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P307",
@@ -4295,7 +4295,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P307.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P308",
@@ -4309,7 +4309,7 @@
     "bentuk_daun": "Majemuk menyirip, anak daun lanset asimetris, beraroma wangi.",
     "nama_buah": "Buah Kotak Kayu Pecah",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P308.jpg"
+    "foto": "images/Suren.jpg"
   },
   {
     "id": "P309",
@@ -4323,7 +4323,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun jorong miring.",
     "nama_buah": "Buah Polong Jengkol",
     "status_buah": "Bisa Dimakan (Biji diolah masakan khas)",
-    "foto": "images/P309.jpg"
+    "foto": "images/Jengkol.jpg"
   },
   {
     "id": "P310",
@@ -4337,7 +4337,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun jorong miring.",
     "nama_buah": "Buah Polong Jengkol",
     "status_buah": "Bisa Dimakan (Biji diolah masakan khas)",
-    "foto": "images/P310.jpg"
+    "foto": "images/Jengkol.jpg"
   },
   {
     "id": "P311",
@@ -4351,7 +4351,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun jorong miring.",
     "nama_buah": "Buah Polong Jengkol",
     "status_buah": "Bisa Dimakan (Biji diolah masakan khas)",
-    "foto": "images/P311.jpg"
+    "foto": "images/Jengkol.jpg"
   },
   {
     "id": "P312",
@@ -4365,7 +4365,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun jorong miring.",
     "nama_buah": "Buah Polong Jengkol",
     "status_buah": "Bisa Dimakan (Biji diolah masakan khas)",
-    "foto": "images/P312.jpg"
+    "foto": "images/Jengkol.jpg"
   },
   {
     "id": "P313",
@@ -4379,7 +4379,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P313.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P314",
@@ -4393,7 +4393,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P314.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P315",
@@ -4407,7 +4407,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P315.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P316",
@@ -4421,7 +4421,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P316.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P317",
@@ -4435,7 +4435,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P317.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P318",
@@ -4449,7 +4449,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P318.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P319",
@@ -4463,7 +4463,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P319.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P320",
@@ -4477,7 +4477,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P320.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P321",
@@ -4491,7 +4491,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P321.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P322",
@@ -4505,7 +4505,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P322.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P323",
@@ -4519,7 +4519,7 @@
     "bentuk_daun": "Majemuk menyirip tunggal, anak daun lanset memanjang.",
     "nama_buah": "Buah Buni Kecil Berbulu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P323.jpg"
+    "foto": "images/Sungkai.jpg"
   },
   {
     "id": "P324",
@@ -4533,7 +4533,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun sangat kecil rapat.",
     "nama_buah": "Buah Polong Petai",
     "status_buah": "Bisa Dimakan (Biji diolah/mentah)",
-    "foto": "images/P324.jpg"
+    "foto": "images/Petai.jpg"
   },
   {
     "id": "P325",
@@ -4547,7 +4547,7 @@
     "bentuk_daun": "Tunggal, berseling, berukuran sangat lebar, permukaan kasar.",
     "nama_buah": "Buah Terap Semu Berduri Lunak",
     "status_buah": "Bisa Dimakan (Daging buah manis lezat)",
-    "foto": "images/P325.jpg"
+    "foto": "images/Terap.jpg"
   },
   {
     "id": "P326",
@@ -4561,7 +4561,7 @@
     "bentuk_daun": "Tunggal, berseling, berukuran sangat lebar, permukaan kasar.",
     "nama_buah": "Buah Terap Semu Berduri Lunak",
     "status_buah": "Bisa Dimakan (Daging buah manis lezat)",
-    "foto": "images/P326.jpg"
+    "foto": "images/Terap.jpg"
   },
   {
     "id": "P327",
@@ -4575,7 +4575,7 @@
     "bentuk_daun": "Tunggal, berseling, berukuran sangat lebar, permukaan kasar.",
     "nama_buah": "Buah Terap Semu Berduri Lunak",
     "status_buah": "Bisa Dimakan (Daging buah manis lezat)",
-    "foto": "images/P327.jpg"
+    "foto": "images/Terap.jpg"
   },
   {
     "id": "P328",
@@ -4589,7 +4589,7 @@
     "bentuk_daun": "Majemuk menjari berkarang (3–8 daun), lanset-obovate.",
     "nama_buah": "Buah Pita Panjang Berpasangan",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P328.jpg"
+    "foto": "images/Pulai.jpg"
   },
   {
     "id": "P329",
@@ -4603,7 +4603,7 @@
     "bentuk_daun": "Majemuk menjari berkarang (3–8 daun), lanset-obovate.",
     "nama_buah": "Buah Pita Panjang Berpasangan",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P329.jpg"
+    "foto": "images/Pulai.jpg"
   },
   {
     "id": "P330",
@@ -4617,7 +4617,7 @@
     "bentuk_daun": "Daun semu (filodia) tunggal, melengkung seperti bulan sabit.",
     "nama_buah": "Buah Polong Melilit",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P330.jpg"
+    "foto": "images/Akasia.jpg"
   },
   {
     "id": "P331",
@@ -4631,7 +4631,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kandis Kuning",
     "status_buah": "Bisa Dimakan (Sangat asam, bumbu masakan)",
-    "foto": "images/P331.jpg"
+    "foto": "images/Kandis.jpg"
   },
   {
     "id": "P332",
@@ -4645,7 +4645,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong memanjang, tebal mengkilap.",
     "nama_buah": "Buah Kandis Kuning",
     "status_buah": "Bisa Dimakan (Sangat asam, bumbu masakan)",
-    "foto": "images/P332.jpg"
+    "foto": "images/Kandis.jpg"
   },
   {
     "id": "P333",
@@ -4659,7 +4659,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong hingga melanset, aromatik.",
     "nama_buah": "Buah Buni Salam Kecil",
     "status_buah": "Bisa Dimakan (Rasa kelat manis tipis)",
-    "foto": "images/P333.jpg"
+    "foto": "images/Salam.jpg"
   },
   {
     "id": "P334",
@@ -4673,7 +4673,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P334.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P335",
@@ -4687,7 +4687,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P335.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P336",
@@ -4701,7 +4701,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P336.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P337",
@@ -4715,7 +4715,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P337.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P338",
@@ -4729,7 +4729,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P338.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P339",
@@ -4743,7 +4743,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P339.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P340",
@@ -4757,7 +4757,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P340.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P341",
@@ -4771,7 +4771,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P341.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P342",
@@ -4785,7 +4785,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P342.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P343",
@@ -4799,7 +4799,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P343.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P344",
@@ -4813,7 +4813,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P344.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P345",
@@ -4827,7 +4827,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P345.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P346",
@@ -4841,7 +4841,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P346.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P347",
@@ -4855,7 +4855,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah bersisik keemasan.",
     "nama_buah": "Buah Durian Berduri Tajam",
     "status_buah": "Bisa Dimakan (Sangat manis gurih lezat)",
-    "foto": "images/P347.jpg"
+    "foto": "images/Durian.jpg"
   },
   {
     "id": "P348",
@@ -4869,7 +4869,7 @@
     "bentuk_daun": "Tunggal, berseling, lanset-jorong, 3 urat utama membujur.",
     "nama_buah": "Buah Buni Kecil Kayu Manis",
     "status_buah": "Tidak Bisa Dimakan (Kulitnya yang digunakan)",
-    "foto": "images/P348.jpg"
+    "foto": "images/Kayu Manis.jpg"
   },
   {
     "id": "P349",
@@ -4883,7 +4883,7 @@
     "bentuk_daun": "Tunggal, berseling, lanset-jorong, 3 urat utama membujur.",
     "nama_buah": "Buah Buni Kecil Kayu Manis",
     "status_buah": "Tidak Bisa Dimakan (Kulitnya yang digunakan)",
-    "foto": "images/P349.jpg"
+    "foto": "images/Kayu Manis.jpg"
   },
   {
     "id": "P350",
@@ -4897,7 +4897,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P350.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P351",
@@ -4911,7 +4911,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P351.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P352",
@@ -4925,7 +4925,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P352.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P353",
@@ -4939,7 +4939,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P353.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P354",
@@ -4953,7 +4953,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P354.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P355",
@@ -4967,7 +4967,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P355.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P356",
@@ -4981,7 +4981,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P356.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P357",
@@ -4995,7 +4995,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P357.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P358",
@@ -5009,7 +5009,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P358.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P359",
@@ -5023,7 +5023,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P359.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P360",
@@ -5037,7 +5037,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset tebal kaku.",
     "nama_buah": "Buah Pasang / Oak Batu",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P360.jpg"
+    "foto": "images/Hoting Batu.jpg"
   },
   {
     "id": "P361",
@@ -5051,7 +5051,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P361.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P362",
@@ -5065,7 +5065,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P362.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P363",
@@ -5079,7 +5079,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P363.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P364",
@@ -5093,7 +5093,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P364.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P365",
@@ -5107,7 +5107,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P365.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P366",
@@ -5121,7 +5121,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P366.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P367",
@@ -5135,7 +5135,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P367.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P368",
@@ -5149,7 +5149,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P368.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P369",
@@ -5163,7 +5163,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P369.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P370",
@@ -5177,7 +5177,7 @@
     "bentuk_daun": "Jarum/sisik majemuk pipih, anak daun sisik kecil.",
     "nama_buah": "Tidak Ada (Organ: Resepta / Strobilus Semu)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P370.jpg"
+    "foto": "images/Sampinur Bunga.jpg"
   },
   {
     "id": "P371",
@@ -5191,7 +5191,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P371.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P372",
@@ -5205,7 +5205,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P372.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P373",
@@ -5219,7 +5219,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P373.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P374",
@@ -5233,7 +5233,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P374.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P375",
@@ -5247,7 +5247,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P375.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P376",
@@ -5261,7 +5261,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P376.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P377",
@@ -5275,7 +5275,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bawah berbulu merah tembaga.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P377.jpg"
+    "foto": "images/Meranti Merah.jpg"
   },
   {
     "id": "P378",
@@ -5289,7 +5289,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P378.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P379",
@@ -5303,7 +5303,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P379.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P380",
@@ -5317,7 +5317,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P380.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P381",
@@ -5331,7 +5331,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P381.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P382",
@@ -5345,7 +5345,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P382.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P383",
@@ -5359,7 +5359,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P383.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P384",
@@ -5373,7 +5373,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P384.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P385",
@@ -5387,7 +5387,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P385.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P386",
@@ -5401,7 +5401,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P386.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P387",
@@ -5415,7 +5415,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P387.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P388",
@@ -5429,7 +5429,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P388.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P389",
@@ -5443,7 +5443,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P389.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P390",
@@ -5457,7 +5457,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P390.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P391",
@@ -5471,7 +5471,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P391.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P392",
@@ -5485,7 +5485,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P392.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P393",
@@ -5499,7 +5499,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P393.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P394",
@@ -5513,7 +5513,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P394.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P395",
@@ -5527,7 +5527,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P395.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P396",
@@ -5541,7 +5541,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P396.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P397",
@@ -5555,7 +5555,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur.",
     "nama_buah": "Buah Buni Bulat Kemenyan",
     "status_buah": "Tidak Bisa Dimakan (Penghasil resin)",
-    "foto": "images/P397.jpg"
+    "foto": "images/Kemenyan Merah.jpg"
   },
   {
     "id": "P398",
@@ -5569,7 +5569,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, memutih tipis.",
     "nama_buah": "Buah Kotak Kayu Oval Gaharu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P398.jpg"
+    "foto": "images/Gaharu.jpg"
   },
   {
     "id": "P399",
@@ -5583,7 +5583,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, memutih tipis.",
     "nama_buah": "Buah Kotak Kayu Oval Gaharu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P399.jpg"
+    "foto": "images/Gaharu.jpg"
   },
   {
     "id": "P400",
@@ -5597,7 +5597,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P400.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P401",
@@ -5611,7 +5611,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P401.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P402",
@@ -5625,7 +5625,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P402.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P403",
@@ -5639,7 +5639,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P403.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P404",
@@ -5653,7 +5653,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P404.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P405",
@@ -5667,7 +5667,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P405.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P406",
@@ -5681,7 +5681,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P406.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P407",
@@ -5695,7 +5695,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P407.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P408",
@@ -5709,7 +5709,7 @@
     "bentuk_daun": "Tunggal, jorong-obovate, kekuningan di bagian muda.",
     "nama_buah": "Buah Buni Medang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P408.jpg"
+    "foto": "images/Medang Kuning.jpg"
   },
   {
     "id": "P409",
@@ -5723,7 +5723,7 @@
     "bentuk_daun": "Majemuk menyirip genap, 6–12 pasang anak daun jorong tumpul.",
     "nama_buah": "Buah Polong Pipih Panjang",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P409.jpg"
+    "foto": "images/Jior.jpg"
   },
   {
     "id": "P410",
@@ -5737,7 +5737,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong memanjang, bawah agak kasar.",
     "nama_buah": "Buah Meranti Bersetayap",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P410.jpg"
+    "foto": "images/Meranti Gembung.jpg"
   },
   {
     "id": "P411",
@@ -5751,7 +5751,7 @@
     "bentuk_daun": "Jarum panjang kaku berpasangan (2 jarum per bundel).",
     "nama_buah": "Tidak Ada (Organ: Strobilus / Kerucut Pinus)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P411.jpg"
+    "foto": "images/Pinus.jpg"
   },
   {
     "id": "P412",
@@ -5765,7 +5765,7 @@
     "bentuk_daun": "Jarum panjang kaku berpasangan (2 jarum per bundel).",
     "nama_buah": "Tidak Ada (Organ: Strobilus / Kerucut Pinus)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P412.jpg"
+    "foto": "images/Pinus.jpg"
   },
   {
     "id": "P413",
@@ -5779,7 +5779,7 @@
     "bentuk_daun": "Jarum panjang kaku berpasangan (2 jarum per bundel).",
     "nama_buah": "Tidak Ada (Organ: Strobilus / Kerucut Pinus)",
     "status_buah": "Tidak Punya Buah (Tumbuhan Berbiji Terbuka)",
-    "foto": "images/P413.jpg"
+    "foto": "images/Pinus.jpg"
   },
   {
     "id": "P414",
@@ -5793,7 +5793,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga bundar telur, tebal.",
     "nama_buah": "Buah Tampui Tebal",
     "status_buah": "Bisa Dimakan (Daging buah manis asam)",
-    "foto": "images/P414.jpg"
+    "foto": "images/Tampui.jpg"
   },
   {
     "id": "P415",
@@ -5807,7 +5807,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P415.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P416",
@@ -5821,7 +5821,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P416.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P417",
@@ -5835,7 +5835,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P417.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P418",
@@ -5849,7 +5849,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P418.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P419",
@@ -5863,7 +5863,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P419.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P420",
@@ -5877,7 +5877,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset memanjang, mengkilap.",
     "nama_buah": "Buah Buni Pisang-pisangan",
     "status_buah": "Tidak Dimakan Manusia (Pakan satwa)",
-    "foto": "images/P420.jpg"
+    "foto": "images/Pisang-pisang.jpg"
   },
   {
     "id": "P421",
@@ -5891,7 +5891,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-obovate, bergigi halus.",
     "nama_buah": "Buah Buni Ganitri Hutan",
     "status_buah": "Bisa Dimakan (Sebagian jenis manis kelat)",
-    "foto": "images/P421.jpg"
+    "foto": "images/Bengkinang.jpg"
   },
   {
     "id": "P422",
@@ -5905,7 +5905,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, kaku seperti kulit.",
     "nama_buah": "Buah Kotak/Buni Parak",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P422.jpg"
+    "foto": "images/Parak.jpg"
   },
   {
     "id": "P423",
@@ -5919,7 +5919,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, kaku seperti kulit.",
     "nama_buah": "Buah Kotak/Buni Parak",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P423.jpg"
+    "foto": "images/Parak.jpg"
   },
   {
     "id": "P424",
@@ -5933,7 +5933,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong tebal kaku, kasar di bawah.",
     "nama_buah": "Buah Buni Medang Batu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P424.jpg"
+    "foto": "images/Medang batu.jpg"
   },
   {
     "id": "P425",
@@ -5947,7 +5947,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong memanjang, bawah bersisik putih.",
     "nama_buah": "Buah Buni Bertepung",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P425.jpg"
+    "foto": "images/Medang tepung.jpg"
   },
   {
     "id": "P426",
@@ -5961,7 +5961,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong lebar hingga obovate.",
     "nama_buah": "Buah Batu Majaka",
     "status_buah": "Tidak Dimakan Langsung (Bahan obat tradisional)",
-    "foto": "images/P426.jpg"
+    "foto": "images/Majaka.jpg"
   },
   {
     "id": "P427",
@@ -5975,7 +5975,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P427.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P428",
@@ -5989,7 +5989,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P428.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P429",
@@ -6003,7 +6003,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P429.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P430",
@@ -6017,7 +6017,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P430.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P431",
@@ -6031,7 +6031,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P431.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P432",
@@ -6045,7 +6045,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P432.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P433",
@@ -6059,7 +6059,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P433.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P434",
@@ -6073,7 +6073,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P434.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P435",
@@ -6087,7 +6087,7 @@
     "bentuk_daun": "Majemuk menyirip, 7–13 anak daun jorong/oval.",
     "nama_buah": "Buah Polong Pipih Tuba",
     "status_buah": "SANGAT BERACUN (Tidak boleh dimakan!)",
-    "foto": "images/P435.jpg"
+    "foto": "images/Tuba.jpg"
   },
   {
     "id": "P436",
@@ -6101,7 +6101,7 @@
     "bentuk_daun": "Majemuk menyirip ganda dua, anak daun banyak kecil.",
     "nama_buah": "Buah Polong Melingkar (Kuping Monyet)",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P436.jpg"
+    "foto": "images/Sengon buto.jpg"
   },
   {
     "id": "P437",
@@ -6115,7 +6115,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, berkerut samar.",
     "nama_buah": "Buah Kotak Tembius",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P437.jpg"
+    "foto": "images/Tembisu.jpg"
   },
   {
     "id": "P438",
@@ -6129,7 +6129,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, berkerut samar.",
     "nama_buah": "Buah Kotak Tembius",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P438.jpg"
+    "foto": "images/Tembisu.jpg"
   },
   {
     "id": "P439",
@@ -6143,7 +6143,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P439.jpg"
+    "foto": "images/Simartolu.jpg"
   },
   {
     "id": "P440",
@@ -6157,7 +6157,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong hingga melanset.",
     "nama_buah": "Buah Kotak Bulat Kayu",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P440.jpg"
+    "foto": "images/Simartolu.jpg"
   },
   {
     "id": "P441",
@@ -6171,7 +6171,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong-lanset memanjang, kaku.",
     "nama_buah": "Buah Kotak Bersekat 3",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P441.jpg"
+    "foto": "images/Perupuk.jpg"
   },
   {
     "id": "P442",
@@ -6185,7 +6185,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong-lanset memanjang, kaku.",
     "nama_buah": "Buah Kotak Bersekat 3",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P442.jpg"
+    "foto": "images/Perupuk.jpg"
   },
   {
     "id": "P443",
@@ -6199,7 +6199,7 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong-lanset memanjang, kaku.",
     "nama_buah": "Buah Kotak Bersekat 3",
     "status_buah": "Tidak Bisa Dimakan",
-    "foto": "images/P443.jpg"
+    "foto": "images/Perupuk.jpg"
   },
   {
     "id": "P444",
@@ -6213,7 +6213,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P444.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P445",
@@ -6227,7 +6227,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P445.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P446",
@@ -6241,7 +6241,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P446.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P447",
@@ -6255,7 +6255,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P447.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P448",
@@ -6269,7 +6269,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P448.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P449",
@@ -6283,7 +6283,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P449.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P450",
@@ -6297,7 +6297,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P450.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P451",
@@ -6311,7 +6311,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P451.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P452",
@@ -6325,7 +6325,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P452.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P453",
@@ -6339,7 +6339,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P453.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P454",
@@ -6353,7 +6353,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P454.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P455",
@@ -6367,7 +6367,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P455.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P456",
@@ -6381,7 +6381,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P456.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P457",
@@ -6395,7 +6395,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P457.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P458",
@@ -6409,7 +6409,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P458.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P459",
@@ -6423,7 +6423,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P459.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P460",
@@ -6437,7 +6437,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P460.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P461",
@@ -6451,7 +6451,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P461.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P462",
@@ -6465,7 +6465,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P462.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P463",
@@ -6479,7 +6479,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P463.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P464",
@@ -6493,7 +6493,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P464.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P465",
@@ -6507,7 +6507,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P465.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P466",
@@ -6521,7 +6521,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P466.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P467",
@@ -6535,7 +6535,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P467.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P468",
@@ -6549,7 +6549,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P468.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P469",
@@ -6563,7 +6563,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P469.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P470",
@@ -6577,7 +6577,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong - bundar telur, tebal kaku.",
     "nama_buah": "Buah Hoting / Oak Hutan",
     "status_buah": "Tidak Dimakan Langsung (Pakan satwa)",
-    "foto": "images/P470.jpg"
+    "foto": "images/Hoting.jpg"
   },
   {
     "id": "P471",
@@ -6591,7 +6591,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-lanset, bergetah.",
     "nama_buah": "Buah Nyatoh Susu",
     "status_buah": "Tidak Lazim Dimakan",
-    "foto": "images/P471.jpg"
+    "foto": "images/Mayang susu.jpg"
   },
   {
     "id": "P472",
@@ -6605,7 +6605,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong lebar, tepi bergigi halus.",
     "nama_buah": "Buah Mohu Berbuni",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P472.jpg"
+    "foto": "images/Mohu.jpg"
   },
   {
     "id": "P473",
@@ -6619,7 +6619,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong lebar, tepi bergigi halus.",
     "nama_buah": "Buah Mohu Berbuni",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P473.jpg"
+    "foto": "images/Mohu.jpg"
   },
   {
     "id": "P474",
@@ -6633,7 +6633,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong lebar, tepi bergigi halus.",
     "nama_buah": "Buah Mohu Berbuni",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P474.jpg"
+    "foto": "images/Mohu.jpg"
   },
   {
     "id": "P475",
@@ -6647,7 +6647,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong lebar, tepi bergigi halus.",
     "nama_buah": "Buah Mohu Berbuni",
     "status_buah": "Bisa Dimakan (Rasa manis berlendir segar)",
-    "foto": "images/P475.jpg"
+    "foto": "images/Mohu.jpg"
   },
   {
     "id": "P476",
@@ -6661,7 +6661,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-oval, tepi bergigi.",
     "nama_buah": "Buah Rukam",
     "status_buah": "Bisa Dimakan (Dipijit dahulu agar manis)",
-    "foto": "images/P476.jpg"
+    "foto": "images/Rukam hutan.jpg"
   },
   {
     "id": "P477",
@@ -6675,7 +6675,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-oval, tepi bergigi.",
     "nama_buah": "Buah Rukam",
     "status_buah": "Bisa Dimakan (Dipijit dahulu agar manis)",
-    "foto": "images/P477.jpg"
+    "foto": "images/Rukam hutan.jpg"
   },
   {
     "id": "P478",
@@ -6689,7 +6689,7 @@
     "bentuk_daun": "Tunggal, berseling, jorong-oval, tepi bergigi.",
     "nama_buah": "Buah Rukam",
     "status_buah": "Bisa Dimakan (Dipijit dahulu agar manis)",
-    "foto": "images/P478.jpg"
+    "foto": "images/Rukam hutan.jpg"
   },
   {
     "id": "P479",
@@ -6703,6 +6703,6 @@
     "bentuk_daun": "Tunggal, berhadapan, jorong memanjang, 3 urat daun.",
     "nama_buah": "Buah Buni Marpoyan Kecil",
     "status_buah": "Bisa Dimakan (Rasa manis tipis)",
-    "foto": "images/P479.jpg"
+    "foto": "images/Marpoyan.jpg"
   }
 ]

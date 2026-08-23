@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Katalog Pohon Arboretum</title>
+  <style>
+    :root {
+      --primary-green: #1b4332;
+      --leaf-green: #2d6a4f;
+      --accent-green: #52b788;
+      --bg-cream: #f4f7f4;
+      --card-bg: #ffffff;
+      --wood-brown: #8b5a2b;
+      --text-dark: #1d2d44;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Roboto, sans-serif; }
+
+    body {
+      background-color: var(--bg-cream);
+      color: var(--text-dark);
+      display: flex;
+      justify-content: center;
+      padding: 12px;
+      min-height: 100vh;
+    }
+
+    .poster-container {
+      width: 100%;
+      max-width: 450px;
+      background: var(--card-bg);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+      border: 3px solid #d8f3dc;
+    }
+
+    /* --- HEADER BANNER DENGAN DUA LOGO --- */
+    .header-banner {
+      background: linear-gradient(135deg, #1b4332, #2d6a4f);
+      color: #fff;
+      padding: 16px 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .header-top-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      margin-bottom: 8px;
+    }
+
+    .header-logo {
+      width: 45px;
+      height: 45px;
+      object-fit: contain;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 3px;
+      border-radius: 50%;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    .header-center-text {
+      text-align: center;
+      flex: 1;
+      padding: 0 8px;
+    }
+
+    .header-subtitle { 
+      font-size: 0.8rem; 
+      letter-spacing: 0.5px; 
+      color: #b7e4c7; 
+      font-weight: 700; 
+      line-height: 1.2;
+    }
+
+    .header-title { 
+      font-size: 1.6rem; 
+      font-weight: 800; 
+      margin: 2px 0; 
+      text-transform: uppercase; 
+      color: #ffffff; 
+      letter-spacing: 1px;
+    }
+
+    .header-motto { 
+      font-size: 0.75rem; 
+      background: rgba(255,255,255,0.15); 
+      display: inline-block; 
+      padding: 3px 10px; 
+      border-radius: 12px; 
+      margin-top: 4px;
+    }
+
+    /* --- CONTENT AREA --- */
+    .tree-card { padding: 16px; }
+
+    .image-frame {
+      width: 100%;
+      height: 250px;
+      border-radius: 16px;
+      overflow: hidden;
+      position: relative;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .image-frame img { width: 100%; height: 100%; object-fit: cover; }
+
+    .badge-id {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: var(--primary-green);
+      color: #fff;
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+
+    .tree-names { margin-top: 14px; margin-bottom: 12px; }
+    .tree-title { font-size: 1.6rem; color: var(--primary-green); font-weight: 800; line-height: 1.2; }
+    .tree-latin { font-style: italic; color: #555; font-size: 1rem; font-weight: 600; }
+    .tree-daerah { font-size: 0.85rem; color: var(--wood-brown); font-weight: 700; margin-top: 2px; }
+
+    .info-list { display: flex; flex-direction: column; gap: 10px; margin-top: 12px; }
+
+    .info-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      background: #f8f9fa;
+      padding: 10px;
+      border-radius: 12px;
+      border-left: 4px solid var(--accent-green);
+    }
+
+    .info-icon { font-size: 1.3rem; }
+    .info-content label { display: block; font-size: 0.75rem; font-weight: 700; color: var(--primary-green); text-transform: uppercase; }
+    .info-content p { font-size: 0.88rem; color: #333; line-height: 1.35; }
+
+    .did-you-know {
+      background: #e8f5e9;
+      border-radius: 14px;
+      padding: 12px 15px;
+      margin-top: 16px;
+      border: 1px dashed var(--accent-green);
+    }
+
+    .did-you-know h4 { color: var(--primary-green); font-size: 0.9rem; margin-bottom: 4px; display: flex; align-items: center; gap: 6px; }
+
+    .footer-campaign {
+      background: #1b4332;
+      color: #fff;
+      text-align: center;
+      padding: 14px;
+      margin-top: 16px;
+    }
+
+    .footer-campaign h5 { font-size: 0.95rem; color: #b7e4c7; margin-bottom: 4px; }
+    .footer-campaign p { font-size: 0.75rem; opacity: 0.85; }
+
+    .loading { text-align: center; padding: 50px 20px; font-weight: bold; color: var(--primary-green); }
+  </style>
+</head>
+<body>
+
+  <div class="poster-container" id="poster">
+    <div class="loading">🍃 Memuat Katalog Pohon...</div>
+  </div>
+
+  <script>
+    async function loadTreeData() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const treeId = urlParams.get('id');
+      const poster = document.getElementById('poster');
+
+      if (!treeId) {
+        poster.innerHTML = `<div class="loading">❌ ID Pohon tidak ditemukan pada URL.</div>`;
+        return;
+      }
+
+      try {
+        const response = await fetch('pohon.json');
+        const data = await response.json();
+        const pohon = data.find(p => p.id && treeId && p.id.trim().toUpperCase() === treeId.trim().toUpperCase());
+
+        if (!pohon) {
+          poster.innerHTML = `<div class="loading">❌ Data pohon dengan ID #${treeId} tidak ditemukan.</div>`;
+          return;
+        }
+
+        poster.innerHTML = `
+          <div class="header-banner">
+            <div class="header-top-row">
+              <img src="Logo_Kementerian_Kehutanan_RI_(2024).png" alt="Logo Kehutanan" class="header-logo">
+              
+              <div class="header-center-text">
+                <div class="header-subtitle">Arboretum KHDTK Pondok Buluh</div>
+                <div class="header-title">INFORMASI POHON</div>
+              </div>
+
+              <img src="Logo_STIKOM.png" alt="Logo STIKOM Tunas Bangsa" class="header-logo">
+            </div>
+            
+            <div class="header-motto">🌿 Kenali Pohon, Cintai Alam 🌿</div>
+          </div>
+
+          <div class="tree-card">
+            <div class="image-frame">
+              <img src="${pohon.foto}"
+                    alt="${pohon.nama_lokal}"
+                    onerror="this.onerror=null; this.src='images/default.jpg';">
+              <span class="badge-id">ID: ${pohon.id}</span>
+            </div>
+
+            <div class="tree-names">
+              <div class="tree-title">${pohon.nama_lokal}</div>
+              <div class="tree-latin">(${pohon.nama_latin})</div>
+              <div class="tree-daerah">Nama Daerah: ${pohon.nama_daerah || '-'}</div>
+            </div>
+
+            <div class="info-list">
+              <div class="info-item">
+                <span class="info-icon">🌳</span>
+                <div class="info-content">
+                  <label>Habitat & Tempat Tumbuh</label>
+                  <p>${pohon.habitat || '-'}</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <span class="info-icon">🍃</span>
+                <div class="info-content">
+                  <label>Bentuk Daun</label>
+                  <p>${pohon.bentuk_daun || '-'}</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <span class="info-icon">🪵</span>
+                <div class="info-content">
+                  <label>Bentuk Kulit Pohon</label>
+                  <p>${pohon.bentuk_kulit || '-'}</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <span class="info-icon">🍎</span>
+                <div class="info-content">
+                  <label>Buah / Biji</label>
+                  <p>${pohon.nama_buah || '-'} (${pohon.status_buah || '-'})</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <span class="info-icon">⭐</span>
+                <div class="info-content">
+                  <label>Manfaat Utama</label>
+                  <p>${pohon.manfaat || '-'}</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="did-you-know">
+              <h4>💡 Tahukah Kamu?</h4>
+              <p style="font-size: 0.85rem; color: #2e7d32;">
+                Pohon ini merupakan salah satu koleksi penting Arboretum KHDTK Pondok Buluh yang mendukung kelestarian ekosistem hutan Sumatra.
+              </p>
+            </div>
+          </div>
+
+          <div class="footer-campaign">
+            <h5>Yuk, Jaga Pohon!</h5>
+            <p>Menjaga pohon berarti menjaga kehidupan. Mari lestarikan pohon di sekitar kita untuk masa depan yang lebih hijau.</p>
+          </div>
+        `;
+      } catch (error) {
+        poster.innerHTML = `<div class="loading">❌ Gagal memuat data. Pastikan koneksi internet aktif.</div>`;
+      }
+    }
+
+    loadTreeData();
+  </script>
+</body>
+</html>
